@@ -8,6 +8,3 @@
 
 
 
-Meine Hobbys sind:
-- Unternehmungen mit der Familie und Freunden
-- Gym & zocken
