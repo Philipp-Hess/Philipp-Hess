@@ -2,7 +2,7 @@
 
 **Meine Name ist Philipp ich bin 27Jahre alt und komme aus Oberhausen.**
 
-![b1](https://github.com/Philipp-Hess/Philipp-Hess/assets/145116105/0d0894aa-f6f4-48bd-b364-f07813034861)
+![b2](https://github.com/Philipp-Hess/Philipp-Hess/assets/145116105/4a79911c-cba0-4a89-ac38-033656637fe6)
 
 
 
