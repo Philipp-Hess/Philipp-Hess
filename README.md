@@ -16,8 +16,8 @@ Hi 👋 My name is Philipp
 
 ## GitHub Stats:
 
-![Birk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipp-Hess&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![Birk's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Philipp-Hess&theme=reactk&hide_border=false)
+![Philipp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Philipp-Hess&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![Philipp's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Philipp-Hess&theme=reactk&hide_border=false)
 
 
 
