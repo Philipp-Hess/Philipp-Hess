@@ -17,7 +17,7 @@ Hi 👋 My name is Philipp
 ## GitHub Stats:
 
 ![Philipp-Hess's Stats](https://github-readme-stats.vercel.app/api?username=Philipp-Hess&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Philipp-Hess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Philipp-Hess&theme=dark&hide_border=true)
+![Philipp-Hess's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Philipp-Hess&theme=default&hide_border=true)
 
 
 
