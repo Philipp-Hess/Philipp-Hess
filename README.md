@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=-apple-system&size=28&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&height=45&lines=Hi+%F0%9F%91%8B+My+name+is+Philipp)](https://git.io/typing-svg)
+Hi 👋 My name is Philipp
 ========================
 
 * 🌍  I'm based in Germany
