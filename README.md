@@ -1,12 +1,6 @@
 Hi 👋 My name is Philipp
 ========================
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me [here](mailto:philippxhess@gmail.com)
-* 🤝  I'm open to collaborating on interesing projects!
-
-
-
 ### Skills
 
 
